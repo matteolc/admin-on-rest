@@ -1,0 +1,150 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "admin-on-rest@github:matteolc/admin-on-rest",
+        "scope": null,
+        "escapedName": "admin-on-rest",
+        "name": "admin-on-rest",
+        "rawSpec": "github:matteolc/admin-on-rest",
+        "spec": "github:matteolc/admin-on-rest",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:matteolc/admin-on-rest.git",
+          "sshUrl": "git+ssh://git@github.com/matteolc/admin-on-rest.git",
+          "httpsUrl": "git+https://github.com/matteolc/admin-on-rest.git",
+          "gitUrl": "git://github.com/matteolc/admin-on-rest.git",
+          "shortcut": "github:matteolc/admin-on-rest",
+          "directUrl": "https://raw.githubusercontent.com/matteolc/admin-on-rest/master/package.json"
+        }
+      },
+      "/srv/vast-castle-88193"
+    ]
+  ],
+  "_from": "matteolc/admin-on-rest",
+  "_id": "admin-on-rest@1.1.0",
+  "_inCache": true,
+  "_location": "/admin-on-rest",
+  "_phantomChildren": {
+    "fbjs": "0.8.12",
+    "loose-envify": "1.3.1",
+    "object-assign": "4.1.1",
+    "prop-types": "15.5.10"
+  },
+  "_requested": {
+    "raw": "admin-on-rest@github:matteolc/admin-on-rest",
+    "scope": null,
+    "escapedName": "admin-on-rest",
+    "name": "admin-on-rest",
+    "rawSpec": "github:matteolc/admin-on-rest",
+    "spec": "github:matteolc/admin-on-rest",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:matteolc/admin-on-rest.git",
+      "sshUrl": "git+ssh://git@github.com/matteolc/admin-on-rest.git",
+      "httpsUrl": "git+https://github.com/matteolc/admin-on-rest.git",
+      "gitUrl": "git://github.com/matteolc/admin-on-rest.git",
+      "shortcut": "github:matteolc/admin-on-rest",
+      "directUrl": "https://raw.githubusercontent.com/matteolc/admin-on-rest/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/matteolc/admin-on-rest.git#315356ee81216560f296c8ce461961902c3e3e51",
+  "_shasum": "92e28df65aaaf226757f91a01a8de286beda5572",
+  "_shrinkwrap": null,
+  "_spec": "admin-on-rest@github:matteolc/admin-on-rest",
+  "_where": "/srv/vast-castle-88193",
+  "authors": [
+    "François Zaninotto"
+  ],
+  "bugs": {
+    "url": "https://github.com/marmelab/admin-on-rest/issues"
+  },
+  "dependencies": {
+    "babel-runtime": "~6.18.0",
+    "inflection": "~1.12.0",
+    "lodash.debounce": "~4.0.8",
+    "lodash.defaultsdeep": "~4.6.0",
+    "lodash.get": "~4.4.2",
+    "lodash.set": "~4.3.2",
+    "material-ui": "~0.17.4",
+    "material-ui-chip-input": "~0.13.5",
+    "node-polyglot": "2.2.2",
+    "prop-types": "~15.5.7",
+    "query-string": "~4.3.2",
+    "react": "~15.5.4",
+    "react-dom": "~15.5.4",
+    "react-dropzone": "~3.13.1",
+    "react-redux": "~5.0.4",
+    "react-router": "~4.1.0",
+    "react-router-dom": "~4.1.0",
+    "react-router-redux": "~5.0.0-alpha.5",
+    "react-tap-event-plugin": "~2.0.1",
+    "recompose": "~0.23.1",
+    "redux": "~3.6.0",
+    "redux-form": "~6.6.3",
+    "redux-saga": "~0.14.6",
+    "reselect": "~3.0.0"
+  },
+  "description": "A frontend Framework for building admin applications on top of REST services, using ES6, React and Material UI",
+  "devDependencies": {
+    "babel-cli": "~6.24.1",
+    "babel-core": "~6.24.1",
+    "babel-eslint": "~7.2.1",
+    "babel-loader": "~6.4.1",
+    "babel-plugin-add-module-exports": "~0.2.1",
+    "babel-plugin-transform-builtin-extend": "~1.1.2",
+    "babel-plugin-transform-react-jsx": "~6.24.1",
+    "babel-plugin-transform-runtime": "~6.23.0",
+    "babel-preset-es2015": "~6.24.1",
+    "babel-preset-react": "~6.24.1",
+    "babel-preset-stage-0": "~6.24.1",
+    "babel-register": "~6.24.1",
+    "chromedriver": "~2.26.1",
+    "css-loader": "~0.28.0",
+    "enzyme": "~2.8.2",
+    "eslint": "~3.19.0",
+    "eslint-config-airbnb": "~14.1.0",
+    "eslint-plugin-import": "~2.2.0",
+    "eslint-plugin-jsx-a11y": "~4.0.0",
+    "eslint-plugin-react": "~6.10.3",
+    "express": "~4.15.2",
+    "extract-text-webpack-plugin": "~2.1.0",
+    "file-api": "~0.10.4",
+    "full-icu": "~1.0.3",
+    "ignore-styles": "~5.0.1",
+    "mocha": "~3.2.0",
+    "react-addons-test-utils": "~15.5.1",
+    "selenium-webdriver": "~3.3.0",
+    "sinon": "~2.1.0",
+    "style-loader": "~0.16.0",
+    "webpack": "~1.13.2",
+    "webpack-dev-server": "~1.16.2"
+  },
+  "files": [
+    "*.md",
+    "docs/*.md",
+    "lib",
+    "src"
+  ],
+  "gitHead": "315356ee81216560f296c8ce461961902c3e3e51",
+  "homepage": "https://github.com/marmelab/admin-on-rest#readme",
+  "license": "MIT",
+  "main": "lib/index",
+  "name": "admin-on-rest",
+  "optionalDependencies": {},
+  "readme": "# admin-on-rest [![Build Status](https://travis-ci.org/marmelab/admin-on-rest.svg?branch=master)](https://travis-ci.org/marmelab/admin-on-rest)\n\nA frontend Framework for building admin applications running in the browser on top of REST services, using ES6, [React](https://facebook.github.io/react/) and [Material Design](https://material.io/). Open sourced and maintained by [marmelab](https://marmelab.com/).\n\n[Demo](https://marmelab.com/admin-on-rest-demo/) - [Documentation](https://marmelab.com/admin-on-rest/) - [Releases](https://github.com/marmelab/admin-on-rest/releases) - [Support](http://stackoverflow.com/questions/tagged/admin-on-rest)\n\n[![admin-on-rest-demo](https://marmelab.com/admin-on-rest/img/admin-on-rest-demo-still.png)](https://vimeo.com/205118063)\n\n## Features\n\n* Adapts to any REST backend\n* Complete documentation\n* Optimistic rendering (renders before the server returns)\n* Relationships (many to one, one to many)\n* Internationalization (i18n)\n* Conditional formatting\n* Themeable\n* Supports any authentication provider (REST API, OAuth, Basic Auth, ...)\n* Full-featured Datagrid (sort, pagination, filters)\n* Filter-as-you-type\n* Supports any form layout (simple, tabbed, etc.)\n* Data Validation\n* Custom actions\n* Large library of components for various data types: boolean, number, rich text, etc.\n* WYSIWYG editor\n* Customize dashboard, menu, layout\n* Super easy to extend and override (it's just React components)\n* Highly customizable interface\n* Can connect to multiple backends\n* Leverages the best libraries in the React ecosystem (Redux, redux-form, redux-saga, material-ui, recompose)\n* Can be included in another React app\n* Inspired by the popular [ng-admin](https://github.com/marmelab/ng-admin) library (also by marmelab)\n\n## Versions In This Repository\n\n* [master](https://github.com/marmelab/admin-on-rest/commits/master) - commits that will be included in the next _patch_ release\n\n* [next](https://github.com/marmelab/admin-on-rest/commits/next) - commits that will be included in the next _major_ or _minor_ release\n\nBugfix PRs that don't break BC should be made against **master**. All other PRs (new features, bugfix with BC break) should be made against **next**.\n\n## Installation\n\nAdmin-on-rest is available from npm. You can install it (and its required dependencies)\nusing:\n\n```sh\nnpm install --save-dev admin-on-rest\n```\n\n## Documentation\n\nRead the [Tutorial](http://marmelab.com/admin-on-rest//Tutorial.html) for a 15 minutes introduction. After that, head to the [Documentation](http://marmelab.com/admin-on-rest//index.html), or checkout the [source code of the demo](https://github.com/marmelab/admin-on-rest-demo) for an example usage.\n\n## At a Glance\n\n```js\n// in app.js\nimport React from 'react';\nimport { render } from 'react-dom';\nimport { simpleRestClient, Admin, Resource } from 'admin-on-rest';\n\nimport { PostList, PostEdit, PostCreate, PostIcon } from './posts';\n\nrender(\n    <Admin restClient={simpleRestClient('http://localhost:3000')}>\n        <Resource name=\"posts\" list={PostList} edit={PostEdit} create={PostCreate} icon={PostIcon}/>\n    </Admin>,\n    document.getElementById('root')\n);\n```\n\nThe `<Resource>` component is a configuration component that allows to define sub components for each of the admin view: `list`, `edit`, and `create`. These components use Material UI and custom components from admin-on-rest:\n\n```js\n// in posts.js\nimport React from 'react';\nimport { List, Datagrid, Edit, Create, SimpleForm, DateField, TextField, EditButton, DisabledInput, TextInput, LongTextInput, DateInput } from 'admin-on-rest';\nexport PostIcon from 'material-ui/svg-icons/action/book';\n\nexport const PostList = (props) => (\n    <List {...props}>\n        <Datagrid>\n            <TextField source=\"id\" />\n            <TextField source=\"title\" />\n            <DateField source=\"published_at\" />\n            <TextField source=\"average_note\" />\n            <TextField source=\"views\" />\n            <EditButton basePath=\"/posts\" />\n        </Datagrid>\n    </List>\n);\n\nconst PostTitle = ({ record }) => {\n    return <span>Post {record ? `\"${record.title}\"` : ''}</span>;\n};\n\nexport const PostEdit = (props) => (\n    <Edit title={<PostTitle />} {...props}>\n        <SimpleForm>\n            <DisabledInput source=\"id\" />\n            <TextInput source=\"title\" />\n            <TextInput source=\"teaser\" options={{ multiLine: true }} />\n            <LongTextInput source=\"body\" />\n            <DateInput label=\"Publication date\" source=\"published_at\" />\n            <TextInput source=\"average_note\" />\n            <DisabledInput label=\"Nb views\" source=\"views\" />\n        </SimpleForm>\n    </Edit>\n);\n\nexport const PostCreate = (props) => (\n    <Create title=\"Create a Post\" {...props}>\n        <SimpleForm>\n            <TextInput source=\"title\" />\n            <TextInput source=\"teaser\" options={{ multiLine: true }} />\n            <LongTextInput source=\"body\" />\n            <TextInput label=\"Publication date\" source=\"published_at\" />\n            <TextInput source=\"average_note\" />\n        </SimpleForm>\n    </Create>\n);\n```\n\n## Does It Work With My REST API?\n\nYes.\n\nAdmin-on-rest uses an adapter approach, with a concept called *REST client*. Existing rest clients can be used as a blueprint to design your API, or you can write your own REST client to query an existing API. Writing a custom REST client is a matter of hours.\n\n![REST client architecture](https://marmelab.com/admin-on-rest/img/rest-client.png)\n\nSee the [REST clients documentation](https://marmelab.com/admin-on-rest/RestClients.html) for details.\n\n## Batteries Included But Removable\n\nAdmin-on-rest is designed as a library of loosely coupled React components built on top of [material-ui](http://www.material-ui.com/#/), in addition to controller functions implemented the Redux way. It is very easy to replace one part of admin-on-rest with your own, e.g. to use a custom datagrid, GraphQL instead of REST, or bootstrap instead of Material Design.\n\n## Run the example\n\nYou can run the example app by calling:\n\n```sh\nnpm install\nmake run\n```\n\nAnd then browse to [http://localhost:8080/](http://localhost:8080/).\nThe credentials are **login/password**\n\n## Contributing\n\nPull requests are welcome. Try to follow the coding style of the existing files, and include unit tests and documentation. Be prepared for a thorough code review, and be patient for the merge - this is an open-source initiative.\n\nIf you want to contribute to the documentation, install jekyll, then call\n\n```sh\nmake doc\n```\n\nAnd then browse to [http://localhost:4000/](http://localhost:4000/)\n\n*Note*: if you have added a section with heading to the docs, you also have to add it to `docs/_layouts/default.html` (the links on the left) manually.\n\nYou can run the unit tests by calling\n\n```sh\nmake test\n```\n\nIf you are using admin-on-rest as a dependency, and if you want to try and hack it, here is the advised process:\n\n```sh\n# in myapp\n# install admin-on-rest from GitHub in another directory\n$ cd ..\n$ git clone git@github.com:marmelab/admin-on-rest.git && cd admin-on-rest && make install\n# replace your node_modules/admin-on-rest by a symbolic link to the github checkout\n$ cd ../myapp\n$ npm link ../admin-on-rest\n# go back to the checkout, and replace the version of react by the one in your app\n$ cd ../admin-on-rest\n$ npm link ../myapp/node_modules/react\n$ make watch\n# in another terminal, go back to your app, and start it as usual\n$ cd ../myapp\n$ npm run\n```\n\n**Tip**: If you're on Windows and can't use `make`, try [this Gist](https://gist.github.com/mantis/bb5d9f7d492f86e94341816321500934).\n\n## License\n\nAdmin-on-rest is licensed under the [MIT Licence](https://github.com/marmelab/admin-on-rest/blob/master/LICENSE.md), sponsored and supported by [marmelab](http://marmelab.com).\n\n## Donate\n\nThis library is free to use, even for commercial purpose. If you want to give back, please talk about it, help newcomers, or contribute code. But the best way to give back is to **donate to a charity**. We recommend [Doctors Without Borders](http://www.doctorswithoutborders.org/).\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marmelab/admin-on-rest.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "version": "1.1.0"
+}
